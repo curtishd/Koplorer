@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="moduleKind" value="plain" />
+  </component>
+  <component name="ScriptDefinitionSettings">
+    <option name="settings">
+      <list>
+        <ScriptDefinitionSetting>
+          <option name="definitionId" value="org.jetbrains.kotlin.mainKts.MainKtsScript" />
+        </ScriptDefinitionSetting>
+        <ScriptDefinitionSetting>
+          <option name="definitionId" value="kotlin.Any" />
+        </ScriptDefinitionSetting>
+        <ScriptDefinitionSetting>
+          <option name="definitionId" value="kotlin.Any" />
+        </ScriptDefinitionSetting>
+      </list>
+    </option>
+  </component>
+</project>
